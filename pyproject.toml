@@ -1,0 +1,7 @@
+[project]
+name = "proj-0306"
+version = "0.1.0"
+description = "Tkinter speed typing game"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
